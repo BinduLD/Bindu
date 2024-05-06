@@ -96,7 +96,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://github.com/binduld" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/binduld/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
-	<a href="mailto:binduld19942@gmail.com" https://www.shutterstock.com/image-vector/software-development-coding-process-concept-programming-1396210841" alt="Gmail"/></a>
+	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+</a>
 </p>
 
 [![@binduld's Holopin board](https://holopin.me/binduld)](https://holopin.io/@binduld)
