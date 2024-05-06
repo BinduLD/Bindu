@@ -97,7 +97,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://github.com/binduld" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/binduld/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
-	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:binduld1994@gmail.com" target="_blank"><img src="https://as2.ftcdn.net/v2/jpg/06/47/00/31/1000_F_647003182_3ZI4zggIVkGH7SNpuTTdlJuNm8jxVlsM.jpg" alt="Gmail"/></a>
 </p>
 </a>
 </p>
