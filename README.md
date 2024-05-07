@@ -4,7 +4,7 @@ Hi, I'm Bindu!
 
  
 ### 👨🏻‍💻 &nbsp;About Me.\ld .\
-💬 &nbsp;Feel free to reach out to me for pro bono coinsulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at binduld1994@gmail.com! I'll try to respond as soon as I can commute.\
 !
 
@@ -36,7 +36,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases 
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
