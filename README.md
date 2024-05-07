@@ -1,12 +1,11 @@
 
 <h1 align="cente4@gr">
-Hi, I'm Bindu!99
+Hi, I'm Bindu!
 
-
-### 👨🏻‍💻 &nbsp;About Me.\ld1
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at bindu! I'll try to respond as soon as I can.\
+ 
+### 👨🏻‍💻 &nbsp;About Me.\ld .\
+💬 &nbsp;Feel free to reach out to me for pro bono coinsulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at binduld1994@gmail.com! I'll try to respond as soon as I can commute.\
 !
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
