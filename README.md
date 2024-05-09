@@ -1,85 +1,102 @@
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h1>I am <a href="https://github.com/LD">Bindu</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+</h1>
 
-<h1 align="cente4@gr">
-Hi, I'm Bindu!
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:binduld1994@gmail.com)](mailto:defcon.binduld1994@gmail.com)
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- //<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />//
-//<!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->//
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Grad Student🎓 [@ Rajeev Institute of Technology 🅾️](https://www.osu.edu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I like to find bugs in the application and make the application works as per the requirement specifications. <br/><br/>
 
-<br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently learning in Masai School  at **Masai School**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+  - 📊 Software Testing
+    - 🛠 Jira
+ 
+- 📝 I write test Test Scenarios and Test case
+- 📙 Check out my [Resume](https://www-resume-builder-test-new.masaischool.com/resume/?resumeld=663a43364672b5724647ce8&profileld=self&templateName=TwoColumnMinimal&fontSize=small
+
+
+  
+### 🖥️ My 
+img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+
+### ⚙️ Some Tool and Tech I use
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
+
+
+### 🚀 Quick Stats
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-<hr/>
-<samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
-</samp>
-
-
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-
-
-### 🗄️ Databases 
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<!-- <img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
 
-### 💻 Software and Tools
 
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
-## 📊 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashitanamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashitanamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-
-</details>
-
-<!-- https://github.com/sisodiya2421 -->
-
-## 🙋‍♀️ Let's Connect
-
+<!-- <details>
+<summary> 💥 Learning on </summary>
+<br>
 <p align="center">
-	<a href="https://binduld.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/binduld" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/binduld/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:binduld1994@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/Defcon27/ManualTesting">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
+</a>&ensp;
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
+</a>
 </p>
+</details> -->
 
-[![@Bindu's Holopin board](https://holopin.me/binduld)](https://holopin.io/@binduld)
+
+
+<!--
+**Bindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+pic on right
+<img height="270" src="sss.svg" align=right>
+
+ 
+views
+![Profile Views](https://komarev.com/ghpvc/?username=Bindu
+
+
+
+social modded badge
+<a href="https://www.linkedin.com/in/binduld8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+
+language badges:
+![JAVA](https://img.shields.io/badge/java-FECE00?style=flat&logo=Java&logoColor=3776AB)
+
+
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=SQL)
+
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+
+-->
