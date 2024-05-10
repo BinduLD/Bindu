@@ -31,31 +31,15 @@ I'm a **Grad Student🎓 [@ Rajeev Institute of Technology 🅾️](https://www.
 img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
 
 ### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Bindu&show_icons=true&line_height=21&theme=react" alt="Bindu's Github Stats" />
 <!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p>
-
-
+   
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
 
@@ -63,10 +47,10 @@ img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=
 <summary> 💥 Learning on </summary>
 <br>
 <p align="center">
-<a href="https://github.com/Defcon27/ManualTesting">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
+<a href="https://github.com/Bindu/ManualTesting">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Bindu&repo=Machine-Learning&show_owner=true&theme=react" />
 </a>&ensp;
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Bindu&repo=Deep-Learning&show_owner=true&theme=react" />
 </a>
 </p>
 </details> -->
